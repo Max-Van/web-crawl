@@ -1,6 +1,16 @@
-# web-crawl
-learn web crawl
+# web-crawler
+learn web crawler
 
+
+### Install it 
+
+~~~bash
+$ pip install feedparser
+$ pip install pprint 
+~~~
+
+
+### feedreader.py
 
 ~~~python
 import feedparser
